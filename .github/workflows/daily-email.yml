@@ -3,10 +3,10 @@ name: Daily knowledge email
 on:
   schedule:
     - cron: '30 1 * * *'  # 07:00 IST (UTC + 5:30)
-  workflow_dispatch:        # manual trigger from the Actions tab
+  workflow_dispatch:
 
 permissions:
-  contents: write           # needed to commit metadata back
+  contents: write
 
 jobs:
   send:
@@ -19,7 +19,11 @@ jobs:
           python-version: '3.12'
 
       - name: Install dependencies
-        run: pip install -r cron-job/requirements.txt
+        run: |
+          pip install --upgrade pip
+          pip install --force-reinstall --no-cache-dir -r cron-job/requirements.txt
+          pip show openai | grep Version
+          pip show httpx | grep Version
 
       - name: Send daily email
         env:
@@ -29,12 +33,12 @@ jobs:
           GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
           KNOWLEDGE_DIR: monorepo
           LLM_ENABLED: 'true'
-          # LLM_MODEL: llama-3.3-70b-versatile  # default; uncomment to override
         run: python cron-job/scripts/send_daily.py
 
-      - name: Install dependencies
+      - name: Commit metadata updates
         run: |
-          pip install --upgrade pip
-          pip install --force-reinstall --no-cache-dir -r cron-job/requirements.txt
-          pip show openai | grep Version
-          pip show httpx | grep Version
+          git config user.name "knowledge-bot"
+          git config user.email "bot@users.noreply.github.com"
+          git add monorepo/
+          git diff --staged --quiet || git commit -m "chore: update review metadata [skip ci]"
+          git push
