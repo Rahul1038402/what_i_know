@@ -88,5 +88,3 @@ Concatenating gives the next layer access to **all of these representations simu
 Inception's contribution was the idea that **multiple receptive fields in parallel** beat a single fixed choice, and that **1×1 convs solve the parameter blowup**. Both ideas became standard in modern architectures.
 
 ---
-
-📝 **Image to add:** Diagram of the Inception module showing the 4 parallel branches (1×1, 3×3, 5×5, pool) with 1×1 reductions, all concatenated at the output. Save as `monorepo/dl/cnn/images/inception-module.png`. Good source: search "inception module GoogLeNet architecture".

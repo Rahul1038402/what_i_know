@@ -62,5 +62,3 @@ MLPs work well for tabular data but struggle with:
 This is the "no free lunch" of architectures. The right structure embeds the right inductive bias for the data type.
 
 ---
-
-📝 **Image to add:** Diagram of MLP showing input layer, two hidden layers with multiple neurons, output layer, with all connections drawn. Save as `monorepo/dl/neural-networks/images/mlp-architecture.png`. Good source: search "multilayer perceptron architecture diagram".

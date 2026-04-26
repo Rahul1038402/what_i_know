@@ -107,5 +107,3 @@ ResNet's contribution wasn't just "deeper network." It was the realization that 
 When you stack many residual blocks, the network can choose layer-by-layer whether to "do something" (`F(x)` learns useful changes) or "stay still" (`F(x)` learns to output 0). This adaptive depth is what makes very deep networks trainable.
 
 ---
-
-📝 **Image to add:** Diagram of a residual block showing input x, two weight layers, skip connection going around them, addition, then ReLU. Save as `monorepo/dl/cnn/images/residual-block.png`. Good source: search "ResNet residual block diagram".

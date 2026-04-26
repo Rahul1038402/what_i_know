@@ -107,5 +107,3 @@ Different operation, different consequence:
 - **Modern alternative** — both are largely superseded by transformer-based vision models (ViT, Swin) for state-of-the-art results, but ResNet/DenseNet remain solid baselines.
 
 ---
-
-📝 **Image to add:** Diagram of a dense block showing each layer's output being concatenated to the next layer's input. Save as `monorepo/dl/cnn/images/dense-block.png`. Good source: search "DenseNet dense block architecture".

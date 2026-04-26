@@ -81,5 +81,3 @@ But max-pooling is still common in older architectures (VGG, classical CNNs) and
 Unlike conv layers, pooling has no learnable weights — just a fixed operation. This means pooling adds zero training cost beyond the forward/backward computation.
 
 ---
-
-📝 **Image to add:** Side-by-side example of max pooling and average pooling on the same 4×4 input. Save as `monorepo/dl/cnn/images/max-vs-avg-pooling.png`. Good source: search "max pooling vs average pooling diagram".

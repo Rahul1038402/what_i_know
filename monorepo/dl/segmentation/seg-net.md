@@ -108,5 +108,3 @@ But SegNet's pooling-indices trick still appears in efficient architectures for 
 Same shape, very different information transfer between encoder and decoder.
 
 ---
-
-📝 **Image to add:** SegNet diagram showing encoder + decoder with arrows from pool layers to corresponding unpool layers (showing the index transfer). Save as `monorepo/dl/segmentation/images/segnet-architecture.png`. Good source: search "SegNet architecture diagram" or grab from the original Badrinarayanan 2015 paper.

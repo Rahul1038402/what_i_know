@@ -125,5 +125,3 @@ Default values: `β₁ = 0.9, β₂ = 0.999, η = 0.001, ε = 1e-8`
 Adam's adaptive learning rates can converge to sharper minima that don't generalize as well. SGD finds flatter minima (rolls there slowly), which often generalize better. This is why CV practitioners often prefer SGD + Momentum despite Adam's faster convergence.
 
 ---
-
-📝 **Image to add:** Optimizer trajectories on a 2D loss surface showing how SGD, Momentum, Adagrad, RMSProp, and Adam each navigate to the minimum. Save as `monorepo/dl/optimizers/images/optimizer-trajectories.png`. Good source: search "gradient descent optimizers comparison trajectory".

@@ -153,5 +153,3 @@ VAE: "compress, reconstruct, AND make the latent space samplable."
 That second property is what makes VAEs **generative** while vanilla autoencoders are not.
 
 ---
-
-📝 **Image to add:** VAE diagram showing encoder outputting μ and σ, sampling step with ε, then decoder. Save as `monorepo/dl/autoencoders/images/vae-architecture.png`. Good source: search "variational autoencoder architecture mu sigma".

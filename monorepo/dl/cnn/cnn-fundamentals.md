@@ -91,5 +91,3 @@ A neuron in deep layers "sees" a much larger area of the input than its filter s
 This insight from VGG (2014) is still standard practice today.
 
 ---
-
-📝 **Image to add:** Diagram showing a 3×3 kernel sliding over an input matrix and producing an output feature map. Save as `monorepo/dl/cnn/images/convolution-operation.png`. Good source: search "convolutional operation diagram".

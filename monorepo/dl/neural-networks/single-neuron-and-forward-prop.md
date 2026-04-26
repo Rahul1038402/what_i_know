@@ -61,5 +61,3 @@ Where `W` is a weight matrix, `X` is the input vector, `b` is the bias vector. T
 Forward propagation is just inference — it's how a trained network makes predictions. The cleverness comes during training, where backpropagation tells us how to adjust `W` and `b` to reduce loss.
 
 ---
-
-📝 **Image to add:** Single neuron diagram showing inputs → weights → summation → activation → output. Save as `monorepo/dl/neural-networks/images/single-neuron.png`. Good source: search "artificial neuron diagram" or use the Wikipedia "Artificial neuron" page diagram.

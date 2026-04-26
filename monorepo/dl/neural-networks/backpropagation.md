@@ -58,5 +58,3 @@ Modern frameworks (PyTorch, TensorFlow) build a **computational graph** during f
 To compute gradients during backprop, each layer caches its inputs and intermediate values from the forward pass. This is why training a model uses much more memory than inference — every activation is held in memory until the backward pass is done.
 
 ---
-
-📝 **Image to add:** Backpropagation flow diagram showing forward pass producing loss, then gradients flowing backward through layers. Save as `monorepo/dl/neural-networks/images/backprop-flow.png`. Good source: search "backpropagation chain rule diagram" or "computational graph backprop".

@@ -89,5 +89,3 @@ For negative inputs, output is 0 AND gradient is 0. If a neuron's pre-activation
 | ReLU | 1 (if x>0), 0 (if x<0) | Dying ReLU |
 
 ---
-
-📝 **Image to add:** A single chart showing sigmoid, tanh, and ReLU curves overlaid on the same axes (most educational sources have this). Save as `monorepo/dl/activation-functions/images/sigmoid-tanh-relu-curves.png`. Good source: search "sigmoid tanh relu comparison graph".

@@ -122,5 +122,3 @@ Both are encoder-decoder architectures. Key differences:
 See `seg-net.md` for the SegNet alternative.
 
 ---
-
-📝 **Image to add:** The classic U-Net diagram showing the U-shape with encoder, decoder, and horizontal skip connections. Save as `monorepo/dl/segmentation/images/u-net-architecture.png`. Good source: search "U-Net architecture diagram" or grab from the original Ronneberger 2015 paper.

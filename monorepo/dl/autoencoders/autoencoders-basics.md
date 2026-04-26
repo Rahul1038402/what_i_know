@@ -106,5 +106,3 @@ See `variational-autoencoders.md` for the next step.
 - **State-of-the-art quality** — use diffusion models or modern GANs
 
 ---
-
-📝 **Image to add:** Diagram showing input → encoder narrowing → bottleneck z → decoder widening → reconstructed output. Save as `monorepo/dl/autoencoders/images/autoencoder-architecture.png`. Good source: search "autoencoder architecture diagram".
