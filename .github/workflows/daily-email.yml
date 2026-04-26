@@ -32,10 +32,9 @@ jobs:
           # LLM_MODEL: llama-3.3-70b-versatile  # default; uncomment to override
         run: python cron-job/scripts/send_daily.py
 
-      - name: Commit metadata updates
+      - name: Install dependencies
         run: |
-          git config user.name "knowledge-bot"
-          git config user.email "bot@users.noreply.github.com"
-          git add monorepo/
-          git diff --staged --quiet || git commit -m "chore: update review metadata [skip ci]"
-          git push
+          pip install --upgrade pip
+          pip install --force-reinstall --no-cache-dir -r cron-job/requirements.txt
+          pip show openai | grep Version
+          pip show httpx | grep Version
