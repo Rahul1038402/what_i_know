@@ -5,3 +5,4 @@ venv/
 .env
 .DS_Storecommit.sh
 commit.sh
+commit-dl.sh
