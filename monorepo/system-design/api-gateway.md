@@ -1,9 +1,12 @@
 ---
-topic: system-design
 difficulty: easy
-tags: [api-gateway, microservices, architecture]
-last_sent: null
-review_count: 0
+last_sent: '2026-04-26T05:44:43.409317+00:00'
+review_count: 1
+tags:
+- api-gateway
+- microservices
+- architecture
+topic: system-design
 ---
 
 # API Gateway
