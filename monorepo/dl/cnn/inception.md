@@ -1,9 +1,14 @@
 ---
-topic: deep-learning
 difficulty: hard
-tags: [cnn, inception, googlenet, architecture, 1x1-conv]
-last_sent: null
-review_count: 0
+last_sent: '2026-04-27T04:53:05.415491+00:00'
+review_count: 1
+tags:
+- cnn
+- inception
+- googlenet
+- architecture
+- 1x1-conv
+topic: deep-learning
 ---
 
 # Inception (GoogLeNet, 2014)
