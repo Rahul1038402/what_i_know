@@ -1,9 +1,13 @@
 ---
-topic: dsa
 difficulty: medium
-tags: [pattern, two-pointers, arrays, strings]
-last_sent: null
-review_count: 0
+last_sent: '2026-04-28T04:59:41.533417+00:00'
+review_count: 1
+tags:
+- pattern
+- two-pointers
+- arrays
+- strings
+topic: dsa
 ---
 
 # Sliding window
