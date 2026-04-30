@@ -1,9 +1,15 @@
 ---
-topic: deep-learning
 difficulty: hard
-tags: [optimization, momentum, adagrad, rmsprop, adam, optimizers]
-last_sent: null
-review_count: 0
+last_sent: '2026-04-30T04:59:28.163879+00:00'
+review_count: 1
+tags:
+- optimization
+- momentum
+- adagrad
+- rmsprop
+- adam
+- optimizers
+topic: deep-learning
 ---
 
 # Momentum, Adagrad, RMSProp, Adam
