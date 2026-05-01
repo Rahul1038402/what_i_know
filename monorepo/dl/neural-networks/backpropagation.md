@@ -1,9 +1,14 @@
 ---
-topic: deep-learning
 difficulty: medium
-tags: [neural-networks, backpropagation, gradient, chain-rule, training]
-last_sent: null
-review_count: 0
+last_sent: '2026-05-01T05:11:02.690709+00:00'
+review_count: 1
+tags:
+- neural-networks
+- backpropagation
+- gradient
+- chain-rule
+- training
+topic: deep-learning
 ---
 
 # Backpropagation
