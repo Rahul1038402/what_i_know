@@ -1,9 +1,12 @@
 ---
-topic: system-design
 difficulty: easy
-tags: [load-balancing, scalability, high-availability]
-last_sent: null
-review_count: 0
+last_sent: '2026-05-02T04:44:07.461140+00:00'
+review_count: 1
+tags:
+- load-balancing
+- scalability
+- high-availability
+topic: system-design
 ---
 
 # Load Balancer
