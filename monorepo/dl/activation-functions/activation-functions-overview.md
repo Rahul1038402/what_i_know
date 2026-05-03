@@ -1,9 +1,12 @@
 ---
-topic: deep-learning
 difficulty: easy
-tags: [activation-functions, non-linearity, neural-networks]
-last_sent: null
-review_count: 0
+last_sent: '2026-05-03T05:01:29.732961+00:00'
+review_count: 1
+tags:
+- activation-functions
+- non-linearity
+- neural-networks
+topic: deep-learning
 ---
 
 # Activation functions — overview
