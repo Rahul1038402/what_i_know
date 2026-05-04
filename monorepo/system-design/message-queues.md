@@ -1,9 +1,14 @@
 ---
-topic: system-design
 difficulty: medium
-tags: [message-queue, async, kafka, rabbitmq, decoupling]
-last_sent: null
-review_count: 0
+last_sent: '2026-05-04T05:01:56.761738+00:00'
+review_count: 1
+tags:
+- message-queue
+- async
+- kafka
+- rabbitmq
+- decoupling
+topic: system-design
 ---
 
 # Message queues
