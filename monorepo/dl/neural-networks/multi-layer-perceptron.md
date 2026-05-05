@@ -1,9 +1,13 @@
 ---
-topic: deep-learning
 difficulty: easy
-tags: [neural-networks, mlp, architecture, basics]
-last_sent: null
-review_count: 0
+last_sent: '2026-05-05T04:44:47.697609+00:00'
+review_count: 1
+tags:
+- neural-networks
+- mlp
+- architecture
+- basics
+topic: deep-learning
 ---
 
 # Multi-Layer Perceptron (MLP)
