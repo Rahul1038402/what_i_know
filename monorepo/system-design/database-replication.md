@@ -1,9 +1,13 @@
 ---
-topic: system-design
 difficulty: medium
-tags: [replication, database, high-availability, master-slave]
-last_sent: null
-review_count: 0
+last_sent: '2026-05-06T04:57:46.529014+00:00'
+review_count: 1
+tags:
+- replication
+- database
+- high-availability
+- master-slave
+topic: system-design
 ---
 
 # Database replication
