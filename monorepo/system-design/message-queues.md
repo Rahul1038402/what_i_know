@@ -40,7 +40,7 @@ Message Queues enable asynchronous communication between services by temporarily
 
 - **At-most-once** — Fast, but messages can be lost
 - **At-least-once** — Messages may be duplicated; consumers must be idempotent
-- **Exactly-once** — Hardest to achieve; usually requires consumer-side dedup
+- **Exactly-once** — Hardest to achieve, usually requires consumer-side dedup
 
 ## Real impact
 
@@ -48,4 +48,4 @@ Uber uses queues for ride matching. When you request a ride, the request goes to
 
 ## Popular tools
 
-RabbitMQ, Apache Kafka, AWS SQS, Redis Pub/Sub, Google Pub/Sub, NATS, Amazon Kinesis 
+RabbitMQ, Apache Kafka, AWS SQS, Redis Pub/Sub, Google Pub/Sub, NATS, Amazon Kinesis
