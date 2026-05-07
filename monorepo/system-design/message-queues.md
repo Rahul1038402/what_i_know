@@ -48,4 +48,4 @@ Uber uses queues for ride matching. When you request a ride, the request goes to
 
 ## Popular tools
 
-RabbitMQ, Apache Kafka, AWS SQS, Redis Pub/Sub, Google Pub/Sub, NATS, Amazon Kinesis
+RabbitMQ, Apache Kafka, AWS SQS, Redis Pub/Sub, Google Pub/Sub, NATS, Amazon Kinesis 
