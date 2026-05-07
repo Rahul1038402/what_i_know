@@ -1,9 +1,14 @@
 ---
-topic: deep-learning
 difficulty: medium
-tags: [loss-functions, mse, cross-entropy, regression, classification]
-last_sent: null
-review_count: 0
+last_sent: '2026-05-07T05:00:14.901175+00:00'
+review_count: 1
+tags:
+- loss-functions
+- mse
+- cross-entropy
+- regression
+- classification
+topic: deep-learning
 ---
 
 # MSE and Cross-Entropy
