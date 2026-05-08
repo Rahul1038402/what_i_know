@@ -1,9 +1,13 @@
 ---
-topic: deep-learning
 difficulty: easy
-tags: [neural-networks, neuron, forward-propagation, basics]
-last_sent: null
-review_count: 0
+last_sent: '2026-05-08T04:40:12.390809+00:00'
+review_count: 1
+tags:
+- neural-networks
+- neuron
+- forward-propagation
+- basics
+topic: deep-learning
 ---
 
 # Single neuron and forward propagation
