@@ -1,9 +1,14 @@
 ---
-topic: deep-learning
 difficulty: hard
-tags: [cnn, resnet, residual, skip-connections, architecture]
-last_sent: null
-review_count: 0
+last_sent: '2026-05-10T05:06:17.595509+00:00'
+review_count: 1
+tags:
+- cnn
+- resnet
+- residual
+- skip-connections
+- architecture
+topic: deep-learning
 ---
 
 # ResNet (2015)
