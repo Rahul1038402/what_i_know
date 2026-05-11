@@ -1,9 +1,13 @@
 ---
-topic: system-design
 difficulty: medium
-tags: [streaming, security, drm, hls]
-last_sent: null
-review_count: 0
+last_sent: '2026-05-11T05:37:10.749964+00:00'
+review_count: 1
+tags:
+- streaming
+- security
+- drm
+- hls
+topic: system-design
 ---
 
 # Video streaming security layers
