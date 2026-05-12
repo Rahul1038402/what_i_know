@@ -1,9 +1,14 @@
 ---
-topic: deep-learning
 difficulty: hard
-tags: [autoencoder, vae, generative, reparameterization, latent-space]
-last_sent: null
-review_count: 0
+last_sent: '2026-05-12T05:06:08.344841+00:00'
+review_count: 1
+tags:
+- autoencoder
+- vae
+- generative
+- reparameterization
+- latent-space
+topic: deep-learning
 ---
 
 # Variational Autoencoders (VAE)
