@@ -1,9 +1,13 @@
 ---
-topic: dsa
 difficulty: medium
-tags: [graph, shortest-path, greedy, priority-queue]
-last_sent: null
-review_count: 0
+last_sent: '2026-05-13T05:28:00.517856+00:00'
+review_count: 1
+tags:
+- graph
+- shortest-path
+- greedy
+- priority-queue
+topic: dsa
 ---
 
 # Dijkstra's algorithm
