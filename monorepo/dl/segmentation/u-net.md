@@ -1,9 +1,13 @@
 ---
-topic: deep-learning
 difficulty: medium
-tags: [segmentation, u-net, encoder-decoder, medical-imaging]
-last_sent: null
-review_count: 0
+last_sent: '2026-05-14T05:10:43.712470+00:00'
+review_count: 1
+tags:
+- segmentation
+- u-net
+- encoder-decoder
+- medical-imaging
+topic: deep-learning
 ---
 
 # U-Net (2015)
