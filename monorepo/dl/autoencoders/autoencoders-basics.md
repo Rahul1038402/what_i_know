@@ -1,9 +1,13 @@
 ---
-topic: deep-learning
 difficulty: medium
-tags: [autoencoder, unsupervised, representation-learning, dimensionality-reduction]
-last_sent: null
-review_count: 0
+last_sent: '2026-05-15T05:32:43.710048+00:00'
+review_count: 1
+tags:
+- autoencoder
+- unsupervised
+- representation-learning
+- dimensionality-reduction
+topic: deep-learning
 ---
 
 # Autoencoders
