@@ -1,9 +1,14 @@
 ---
-topic: deep-learning
 difficulty: hard
-tags: [loss-functions, vae, elbo, kl-divergence, generative-models]
-last_sent: null
-review_count: 0
+last_sent: '2026-05-16T04:56:36.683962+00:00'
+review_count: 1
+tags:
+- loss-functions
+- vae
+- elbo
+- kl-divergence
+- generative-models
+topic: deep-learning
 ---
 
 # VAE Loss (ELBO)
