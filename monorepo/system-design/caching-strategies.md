@@ -1,9 +1,13 @@
 ---
-topic: system-design
 difficulty: medium
-tags: [caching, performance, redis, memcached]
-last_sent: null
-review_count: 0
+last_sent: '2026-05-18T05:47:30.127196+00:00'
+review_count: 1
+tags:
+- caching
+- performance
+- redis
+- memcached
+topic: system-design
 ---
 
 # Caching strategies
