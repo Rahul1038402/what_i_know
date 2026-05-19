@@ -1,9 +1,15 @@
 ---
-topic: deep-learning
 difficulty: medium
-tags: [cnn, convolution, kernel, stride, padding, computer-vision]
-last_sent: null
-review_count: 0
+last_sent: '2026-05-19T05:42:09.407998+00:00'
+review_count: 1
+tags:
+- cnn
+- convolution
+- kernel
+- stride
+- padding
+- computer-vision
+topic: deep-learning
 ---
 
 # CNN Fundamentals
