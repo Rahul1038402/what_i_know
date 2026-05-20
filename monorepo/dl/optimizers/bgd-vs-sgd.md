@@ -1,9 +1,13 @@
 ---
-topic: deep-learning
 difficulty: medium
-tags: [optimization, sgd, batch-gradient-descent, mini-batch]
-last_sent: null
-review_count: 0
+last_sent: '2026-05-20T05:45:31.862902+00:00'
+review_count: 1
+tags:
+- optimization
+- sgd
+- batch-gradient-descent
+- mini-batch
+topic: deep-learning
 ---
 
 # Batch GD vs Stochastic GD
