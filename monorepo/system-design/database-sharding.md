@@ -1,9 +1,13 @@
 ---
-topic: system-design
 difficulty: hard
-tags: [sharding, database, scalability, partitioning]
-last_sent: null
-review_count: 0
+last_sent: '2026-05-21T05:48:53.308324+00:00'
+review_count: 1
+tags:
+- sharding
+- database
+- scalability
+- partitioning
+topic: system-design
 ---
 
 # Database sharding
