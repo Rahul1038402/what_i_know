@@ -1,9 +1,13 @@
 ---
-topic: deep-learning
 difficulty: easy
-tags: [optimization, gradient-descent, training, optimizers]
-last_sent: null
-review_count: 0
+last_sent: '2026-05-22T05:42:14.617127+00:00'
+review_count: 1
+tags:
+- optimization
+- gradient-descent
+- training
+- optimizers
+topic: deep-learning
 ---
 
 # Optimization & Optimizers — overview
