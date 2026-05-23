@@ -1,9 +1,13 @@
 ---
-topic: deep-learning
 difficulty: hard
-tags: [cnn, densenet, architecture, feature-reuse]
-last_sent: null
-review_count: 0
+last_sent: '2026-05-23T05:06:45.944649+00:00'
+review_count: 1
+tags:
+- cnn
+- densenet
+- architecture
+- feature-reuse
+topic: deep-learning
 ---
 
 # DenseNet (2017)
