@@ -1,9 +1,13 @@
 ---
-topic: system-design
 difficulty: hard
-tags: [consistent-hashing, distributed-systems, scalability, hashing]
-last_sent: null
-review_count: 0
+last_sent: '2026-05-27T05:55:28.932411+00:00'
+review_count: 1
+tags:
+- consistent-hashing
+- distributed-systems
+- scalability
+- hashing
+topic: system-design
 ---
 
 # Consistent hashing
