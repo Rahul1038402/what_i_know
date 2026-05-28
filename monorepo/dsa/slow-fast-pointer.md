@@ -1,9 +1,13 @@
 ---
-topic: dsa
 difficulty: medium
-tags: [pattern, two-pointers, linked-list, cycle-detection]
-last_sent: null
-review_count: 0
+last_sent: '2026-05-28T05:51:48.051120+00:00'
+review_count: 1
+tags:
+- pattern
+- two-pointers
+- linked-list
+- cycle-detection
+topic: dsa
 ---
 
 # Slow-fast pointer (Floyd's tortoise and hare)
