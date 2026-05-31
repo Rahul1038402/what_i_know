@@ -1,9 +1,13 @@
 ---
-topic: deep-learning
 difficulty: easy
-tags: [cnn, pooling, max-pooling, downsampling]
-last_sent: null
-review_count: 0
+last_sent: '2026-05-31T05:56:30.009477+00:00'
+review_count: 1
+tags:
+- cnn
+- pooling
+- max-pooling
+- downsampling
+topic: deep-learning
 ---
 
 # Pooling
