@@ -1,7 +1,7 @@
 ---
 difficulty: medium
-last_sent: '2026-05-01T05:11:02.690709+00:00'
-review_count: 1
+last_sent: '2026-06-03T06:29:09.904622+00:00'
+review_count: 2
 tags:
 - neural-networks
 - backpropagation
