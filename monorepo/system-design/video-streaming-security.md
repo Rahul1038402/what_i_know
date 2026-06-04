@@ -1,7 +1,7 @@
 ---
 difficulty: medium
-last_sent: '2026-05-11T05:37:10.749964+00:00'
-review_count: 1
+last_sent: '2026-06-04T06:20:58.929471+00:00'
+review_count: 2
 tags:
 - streaming
 - security
