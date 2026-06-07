@@ -1,9 +1,13 @@
 ---
-topic: deep-learning
 difficulty: medium
-tags: [segmentation, segnet, encoder-decoder, pooling-indices]
-last_sent: null
-review_count: 0
+last_sent: '2026-06-07T06:04:13.320277+00:00'
+review_count: 1
+tags:
+- segmentation
+- segnet
+- encoder-decoder
+- pooling-indices
+topic: deep-learning
 ---
 
 # SegNet (2015)
