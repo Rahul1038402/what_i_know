@@ -1,9 +1,12 @@
 ---
-topic: system-design
 difficulty: easy
-tags: [cdn, performance, edge-computing]
-last_sent: null
-review_count: 0
+last_sent: '2026-06-11T06:18:41.016645+00:00'
+review_count: 1
+tags:
+- cdn
+- performance
+- edge-computing
+topic: system-design
 ---
 
 # Content Delivery Network (CDN)
