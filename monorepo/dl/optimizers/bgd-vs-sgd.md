@@ -1,7 +1,7 @@
 ---
 difficulty: medium
-last_sent: '2026-05-20T05:45:31.862902+00:00'
-review_count: 1
+last_sent: '2026-06-14T06:16:51.951847+00:00'
+review_count: 2
 tags:
 - optimization
 - sgd
