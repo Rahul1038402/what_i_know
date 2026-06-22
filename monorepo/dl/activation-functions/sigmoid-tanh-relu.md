@@ -1,9 +1,14 @@
 ---
-topic: deep-learning
 difficulty: medium
-tags: [activation-functions, sigmoid, tanh, relu, vanishing-gradient]
-last_sent: null
-review_count: 0
+last_sent: '2026-06-22T07:00:06.121691+00:00'
+review_count: 1
+tags:
+- activation-functions
+- sigmoid
+- tanh
+- relu
+- vanishing-gradient
+topic: deep-learning
 ---
 
 # Sigmoid, Tanh, and ReLU
