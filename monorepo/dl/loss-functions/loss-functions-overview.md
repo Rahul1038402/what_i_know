@@ -1,9 +1,12 @@
 ---
-topic: deep-learning
 difficulty: easy
-tags: [loss-functions, training, optimization]
-last_sent: null
-review_count: 0
+last_sent: '2026-06-23T05:44:46.513591+00:00'
+review_count: 1
+tags:
+- loss-functions
+- training
+- optimization
+topic: deep-learning
 ---
 
 # Loss functions — overview
