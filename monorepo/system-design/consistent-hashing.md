@@ -1,7 +1,7 @@
 ---
 difficulty: hard
-last_sent: '2026-05-27T05:55:28.932411+00:00'
-review_count: 1
+last_sent: '2026-06-27T05:30:07.910753+00:00'
+review_count: 2
 tags:
 - consistent-hashing
 - distributed-systems
