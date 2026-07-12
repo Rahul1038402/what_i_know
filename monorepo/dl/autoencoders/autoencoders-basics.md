@@ -1,7 +1,7 @@
 ---
 difficulty: medium
-last_sent: '2026-05-25T06:02:19.178285+00:00'
-review_count: 2
+last_sent: '2026-07-12T04:55:32.068153+00:00'
+review_count: 3
 tags:
 - autoencoder
 - unsupervised
