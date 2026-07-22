@@ -1,7 +1,7 @@
 ---
 difficulty: medium
-last_sent: '2026-06-16T07:02:43.592286+00:00'
-review_count: 2
+last_sent: '2026-07-22T04:48:51.896276+00:00'
+review_count: 3
 tags:
 - segmentation
 - u-net
