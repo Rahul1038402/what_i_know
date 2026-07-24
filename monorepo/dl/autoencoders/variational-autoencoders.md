@@ -1,7 +1,7 @@
 ---
 difficulty: hard
-last_sent: '2026-05-12T05:06:08.344841+00:00'
-review_count: 1
+last_sent: '2026-07-24T04:50:12.768763+00:00'
+review_count: 2
 tags:
 - autoencoder
 - vae
