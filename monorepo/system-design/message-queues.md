@@ -1,7 +1,7 @@
 ---
 difficulty: medium
-last_sent: '2026-06-06T05:31:44.065754+00:00'
-review_count: 2
+last_sent: '2026-07-29T04:49:00.046540+00:00'
+review_count: 3
 tags:
 - message-queue
 - async
