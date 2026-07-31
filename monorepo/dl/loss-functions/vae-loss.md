@@ -1,7 +1,7 @@
 ---
 difficulty: hard
-last_sent: '2026-07-08T04:48:31.905982+00:00'
-review_count: 3
+last_sent: '2026-07-31T05:03:18.976726+00:00'
+review_count: 4
 tags:
 - loss-functions
 - vae
