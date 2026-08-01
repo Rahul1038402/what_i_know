@@ -1,7 +1,7 @@
 ---
 difficulty: medium
-last_sent: '2026-07-07T05:43:30.365677+00:00'
-review_count: 2
+last_sent: '2026-08-01T04:55:10.020874+00:00'
+review_count: 3
 tags:
 - cnn
 - convolution
