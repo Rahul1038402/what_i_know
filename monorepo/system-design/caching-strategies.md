@@ -1,7 +1,7 @@
 ---
 difficulty: medium
-last_sent: '2026-07-02T05:34:14.357509+00:00'
-review_count: 3
+last_sent: '2026-08-10T03:28:06.324678+00:00'
+review_count: 4
 tags:
 - caching
 - performance
