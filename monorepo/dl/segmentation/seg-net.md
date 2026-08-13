@@ -1,7 +1,7 @@
 ---
 difficulty: medium
-last_sent: '2026-07-16T04:40:56.619823+00:00'
-review_count: 2
+last_sent: '2026-08-13T03:42:20.445094+00:00'
+review_count: 3
 tags:
 - segmentation
 - segnet
