@@ -1,7 +1,7 @@
 ---
 difficulty: hard
-last_sent: '2026-07-23T04:53:54.374904+00:00'
-review_count: 4
+last_sent: '2026-08-14T03:40:09.051759+00:00'
+review_count: 5
 tags:
 - cnn
 - inception
