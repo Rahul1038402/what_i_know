@@ -1,7 +1,7 @@
 ---
 difficulty: easy
-last_sent: '2026-08-06T04:45:22.107374+00:00'
-review_count: 3
+last_sent: '2026-08-21T02:46:31.139922+00:00'
+review_count: 4
 tags:
 - cdn
 - performance
