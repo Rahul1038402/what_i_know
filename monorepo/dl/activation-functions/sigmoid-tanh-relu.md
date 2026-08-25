@@ -1,7 +1,7 @@
 ---
 difficulty: medium
-last_sent: '2026-08-17T02:43:52.470136+00:00'
-review_count: 3
+last_sent: '2026-08-25T02:41:22.014521+00:00'
+review_count: 4
 tags:
 - activation-functions
 - sigmoid
