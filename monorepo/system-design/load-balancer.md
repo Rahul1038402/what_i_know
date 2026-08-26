@@ -1,7 +1,7 @@
 ---
 difficulty: easy
-last_sent: '2026-08-03T05:06:16.266056+00:00'
-review_count: 4
+last_sent: '2026-08-26T02:49:06.450684+00:00'
+review_count: 5
 tags:
 - load-balancing
 - scalability
