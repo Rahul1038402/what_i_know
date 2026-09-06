@@ -1,7 +1,7 @@
 ---
 difficulty: easy
-last_sent: '2026-08-11T03:20:53.932769+00:00'
-review_count: 4
+last_sent: '2026-09-06T06:24:48.235497+00:00'
+review_count: 5
 tags:
 - activation-functions
 - non-linearity
