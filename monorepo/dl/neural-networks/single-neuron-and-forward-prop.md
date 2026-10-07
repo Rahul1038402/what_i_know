@@ -1,7 +1,7 @@
 ---
 difficulty: easy
-last_sent: '2026-08-18T02:38:20.292076+00:00'
-review_count: 4
+last_sent: '2026-10-07T07:37:55.049859+00:00'
+review_count: 5
 tags:
 - neural-networks
 - neuron
