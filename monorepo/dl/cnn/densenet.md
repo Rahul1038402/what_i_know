@@ -1,7 +1,7 @@
 ---
 difficulty: hard
-last_sent: '2026-09-21T06:55:11.931568+00:00'
-review_count: 5
+last_sent: '2026-10-17T05:59:34.141748+00:00'
+review_count: 6
 tags:
 - cnn
 - densenet
