@@ -1,7 +1,7 @@
 ---
 difficulty: easy
-last_sent: '2026-09-16T06:32:48.470919+00:00'
-review_count: 5
+last_sent: '2026-10-18T06:27:42.089835+00:00'
+review_count: 6
 tags:
 - neural-networks
 - mlp
