@@ -1,7 +1,7 @@
 ---
 difficulty: hard
-last_sent: '2026-08-27T11:54:13.518900+00:00'
-review_count: 5
+last_sent: '2026-10-28T07:14:05.489466+00:00'
+review_count: 6
 tags:
 - graph
 - shortest-path
