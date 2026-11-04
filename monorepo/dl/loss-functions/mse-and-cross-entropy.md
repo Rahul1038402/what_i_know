@@ -1,7 +1,7 @@
 ---
 difficulty: medium
-last_sent: '2026-10-12T07:51:53.535610+00:00'
-review_count: 8
+last_sent: '2026-11-04T07:54:07.892114+00:00'
+review_count: 9
 tags:
 - loss-functions
 - mse
