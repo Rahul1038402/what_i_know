@@ -1,7 +1,7 @@
 ---
 difficulty: easy
-last_sent: '2026-09-29T07:23:12.160849+00:00'
-review_count: 5
+last_sent: '2026-11-05T08:20:11.607584+00:00'
+review_count: 6
 tags:
 - optimization
 - gradient-descent
