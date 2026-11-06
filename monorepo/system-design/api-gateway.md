@@ -1,7 +1,7 @@
 ---
 difficulty: easy
-last_sent: '2026-09-28T07:27:07.806278+00:00'
-review_count: 5
+last_sent: '2026-11-06T08:23:11.542681+00:00'
+review_count: 6
 tags:
 - api-gateway
 - microservices
