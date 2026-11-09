@@ -1,7 +1,7 @@
 ---
 difficulty: hard
-last_sent: '2026-10-19T06:39:13.506746+00:00'
-review_count: 6
+last_sent: '2026-11-09T08:33:04.761796+00:00'
+review_count: 7
 tags:
 - cnn
 - resnet
