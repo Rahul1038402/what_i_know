@@ -1,7 +1,7 @@
 ---
 difficulty: medium
-last_sent: '2026-08-31T07:27:03.309219+00:00'
-review_count: 4
+last_sent: '2026-11-11T08:11:02.810611+00:00'
+review_count: 5
 tags:
 - graph
 - shortest-path
