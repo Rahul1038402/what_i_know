@@ -1,7 +1,7 @@
 ---
 difficulty: medium
-last_sent: '2026-10-01T07:37:31.492979+00:00'
-review_count: 5
+last_sent: '2026-11-12T08:44:39.902621+00:00'
+review_count: 6
 tags:
 - replication
 - database
