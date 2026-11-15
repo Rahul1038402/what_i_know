@@ -1,7 +1,7 @@
 ---
 difficulty: easy
-last_sent: '2026-10-09T07:53:01.723212+00:00'
-review_count: 5
+last_sent: '2026-11-15T08:18:02.918170+00:00'
+review_count: 6
 tags:
 - loss-functions
 - training
