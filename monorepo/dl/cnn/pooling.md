@@ -1,7 +1,7 @@
 ---
 difficulty: easy
-last_sent: '2026-10-29T07:34:59.507552+00:00'
-review_count: 5
+last_sent: '2026-11-16T08:27:35.182668+00:00'
+review_count: 6
 tags:
 - cnn
 - pooling
