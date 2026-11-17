@@ -1,7 +1,7 @@
 ---
 difficulty: medium
-last_sent: '2026-09-17T06:32:02.138612+00:00'
-review_count: 7
+last_sent: '2026-11-17T09:39:39.864633+00:00'
+review_count: 8
 tags:
 - pattern
 - two-pointers
